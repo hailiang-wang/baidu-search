@@ -17,8 +17,15 @@ pip install -r requirements.txt
 
 ## Start
 ```
-scrapy crawl baidu_search
+scrapy crawl baidu_search > result.txt
 ```
+
+## Result
+```
+open result.txt
+```
+
+![](./docs/1.png)
 
 ## Modify
 ```

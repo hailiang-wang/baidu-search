@@ -1,3 +1,4 @@
 *.pyc
 __pycache__
 baidu_search/result.html
+result.txt
